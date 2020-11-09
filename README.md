@@ -15,7 +15,7 @@ In this project, the brightness of a firefly or a node is regarded to be binary,
 The person is either diagnosed with the disease or not.
 
 ## Process flow
-
+![process flow](/image.png)
 
 ## Output
 
