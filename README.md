@@ -18,4 +18,5 @@ The person is either diagnosed with the disease or not.
 ![process flow](/image.png)
 
 ## Output
+![sin output](/sin op.png)
 
